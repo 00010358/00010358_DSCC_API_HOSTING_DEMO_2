@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ZfhkBp77O1fehtvU/dQCiYVuTST+2GH68BCaaB35+440sBDVoEwyonqlzyMRXVULrbY1lSi2PjhqV/c71Ctq5Q==",
+  "dgSpecHash": "8LYZppVbdTEjKOCTvlkYP3qoQECQKQwAhMrlCEqxdlKWUdpvgp6zt2UAD/TLH8igOXdSf5zFjiWD+ZG8BZmYOw==",
   "success": true,
-  "projectFilePath": "D:\\WIUT Classes\\lvl6\\DSCC\\CWRrogress\\API_VERSION_DONE!!!!\\00010358\\00010358\\00010358.csproj",
+  "projectFilePath": "D:\\WIUT Classes\\lvl6\\DSCC\\CWRrogress\\API_HOSTING_1\\00010358\\00010358\\00010358.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Begzod Suyunov\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\Begzod Suyunov\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
