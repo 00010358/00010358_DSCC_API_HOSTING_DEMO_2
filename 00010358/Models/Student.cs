@@ -10,6 +10,9 @@ namespace _00010358.DAL
 {
     public class Student
     {
+        // In order to access the data Models folder has been created
+        // with below given properties in Student class 
+
         public int StudentID { get; set; }
 
 
@@ -19,8 +22,6 @@ namespace _00010358.DAL
 
 
         public string Email { get; set; }
-
-
 
         public int Age { get; set; }
 
